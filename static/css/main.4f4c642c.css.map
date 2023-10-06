@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4f4c642c.css","mappings":"AAAA,WACI,oBAAqB,CACrB,UAAW,CACX,WACJ,CAEA,MAEI,qBAAuB,CADvB,oBAEJ","sources":["App.css"],"sourcesContent":[".container {\n    border: 5px solid red;\n    margin: 5px;\n    padding: 5px;\n}\n\ninput {\n    border-color: lightgray;\n    background-color: white;    \n}"],"names":[],"sourceRoot":""}
